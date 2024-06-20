@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Gothic_Cathedral/Maps/Gothic_Cathedral.umap
+Content/Gothic_Cathedral/Maps/Showcase_Level.umap
